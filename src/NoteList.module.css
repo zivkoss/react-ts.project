@@ -11,7 +11,7 @@
 body {
   background-color: #9898;
   /* list-style: lower-greek; */
-  empty-cells: show;
+  /* empty-cells: show; */
 }
 
 container {
