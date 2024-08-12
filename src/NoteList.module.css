@@ -13,6 +13,7 @@ body {
   /* list-style: lower-greek; */
   /* empty-cells: show; */
   /* margin-inline-start: auto; */
+  font-kerning: initial;
 }
 
 container {
