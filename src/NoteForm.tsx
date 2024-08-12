@@ -80,8 +80,7 @@ export function NoteForm({
             required
             as="textarea"
             ref={markdownRef}
-            // rows={15}
-            rows={10}
+            rows={15}
           />
         </Form.Group>
         <Stack direction="horizontal" gap={2} className="justify-content-end">
