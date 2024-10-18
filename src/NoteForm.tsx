@@ -82,6 +82,7 @@ export function NoteForm({
             ref={markdownRef}
             rows={15}
           />
+          
         </Form.Group>
         <Stack direction="horizontal" gap={2} className="justify-content-end">
           <Button type="submit" variant="primary">
