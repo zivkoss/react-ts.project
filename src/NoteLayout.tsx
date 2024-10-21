@@ -12,7 +12,7 @@ export function NoteLayout({ notes }: NoteLayoutProps) {
   if (note == null) return <Navigate to="/" replace />
 
   return <Outlet context={note} />
-}
+} //
 
 export function useNote() {
   return useOutletContext<Note>()
