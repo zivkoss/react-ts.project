@@ -14,6 +14,7 @@ body {
   /* empty-cells: show; */
   /* margin-inline-start: auto; */
   font-kerning: initial;
+  /* columns: 10pc; */
 }
 
 container {
