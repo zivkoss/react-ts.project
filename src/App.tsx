@@ -142,4 +142,5 @@ export default App
 
 
 // const [notes, setNotes] = useLocalStorage<RawNote[]>("notes", [])
+
 // const [tags, setTags] = useLocalStorage<Tag[]>("tags", [])
