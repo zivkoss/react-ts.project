@@ -29,3 +29,6 @@ export function EditNote({ onSubmit, onAddTag, availableTags }: EditNoteProps) {
 // *****
 
 // 000
+
+
+//https://github.com/WebDevSimplified/react-hangman
