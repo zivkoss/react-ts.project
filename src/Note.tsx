@@ -53,3 +53,6 @@ export function Note({ onDelete }: NoteProps) {
 
 
 ///////
+
+
+
