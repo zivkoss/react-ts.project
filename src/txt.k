@@ -2141,3 +2141,6 @@ Ako hoćeš, mogu ti objasniti šta sledeće očekivati — kako funkcioniše co
 
 
 https://minitoolai.com/chatGPT//
+
+
+https://use.ai/sr-RS/
