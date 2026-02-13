@@ -2138,3 +2138,6 @@ Ako hoćeš, mogu ti objasniti šta sledeće očekivati — kako funkcioniše co
 Унеси поруку...
 
 
+
+
+https://minitoolai.com/chatGPT/
