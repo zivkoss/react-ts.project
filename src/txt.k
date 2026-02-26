@@ -2147,3 +2147,10 @@ https://use.ai/sr-RS/
 
 
 //
+
+
+
+
+
+bot koji ce sam da radi, python AI , tema da bude fitnes i zdrav zivot , bez cigareta i alkohola, da renderuje ili tako nesto?
+//
